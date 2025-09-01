@@ -1,7 +1,7 @@
 {
   "name": "spaced-out",
   "version": "1.0.0",
-  "description": "You are a senior Next.js + WebGL engineer. Goal: implement only a 3D model viewer section in a Next.js (App Router) project using React Three Fiber, @react-three/drei, and Leva — no extra site sections.",
+  "description": "A 3D portfolio website built with Next.js, React Three Fiber, and WebGL for interactive 3D model viewing",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/DarrenRaines-K9/spaced-out.git"
   },
-  "keywords": [],
+  "keywords": ["portfolio", "3d", "webgl", "nextjs", "react-three-fiber"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
