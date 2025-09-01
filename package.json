@@ -13,7 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/DarrenRaines-K9/spaced-out.git"
   },
-  "keywords": ["portfolio", "3d", "webgl", "nextjs", "react-three-fiber"],
+  "keywords": [
+    "portfolio",
+    "3d",
+    "webgl",
+    "nextjs",
+    "react-three-fiber"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
